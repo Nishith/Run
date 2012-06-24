@@ -1,0 +1,745 @@
+fileFormatVersion: 2
+guid: 3fbc5170faf3b42d1885e2ffd378bd41
+ModelImporter:
+  fileIDToRecycleName:
+    4300000: trailer
+    4300002: d07
+    4300004: d08
+    4300006: d09
+    4300008: d10
+    4300010: Frame
+    4300012: d05
+    4300014: d06
+    4300016: d01
+    4300018: d02
+    4300020: Seats
+    4300022: Door01
+    4300024: Door02
+    4300026: d11
+    4300028: d12
+    4300030: Hood
+    4300032: Interier
+    4300034: sub01
+    4300036: sub02
+    4300038: Cylinder01
+    4300040: Cylinder09
+    4300042: tyres03
+    4300044: tyres04
+    4300046: tyres02
+    4300048: tyres01
+    4300050: tyres08
+    4300052: tyres07
+    4300054: tyres14
+    4300056: tyres13
+    4300058: tyres11
+    4300060: tyres12
+    4300062: tyres18
+    4300064: tyres17
+    4300066: tyres16
+    4300068: tyres15
+    4300070: tyres06
+    4300072: tyres10
+    4300074: tyres09
+    4300076: tyres05
+    4300078: windows
+    4300080: Engine
+  serializedVersion: 10
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    generateAnimations: 3
+    bakeSimulation: 0
+    splitAnimations: 1
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00100000005
+    meshCompression: 3
+    addColliders: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMesh: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  textMetaNamesToFileIDs:
+    //RootNode:
+      data:
+        first: 1
+        second: a0860100
+      data:
+        first: 4
+        second: 801a0600
+      data:
+        first: 111
+        second: 605fa900
+    Cylinder01:
+      data:
+        first: 1
+        second: cc860100
+      data:
+        first: 4
+        second: ac1a0600
+      data:
+        first: 23
+        second: 8a182300
+      data:
+        first: 33
+        second: ca5a3200
+      data:
+        first: 64
+        second: 1ca86100
+    Cylinder09:
+      data:
+        first: 1
+        second: ca860100
+      data:
+        first: 4
+        second: aa1a0600
+      data:
+        first: 23
+        second: 88182300
+      data:
+        first: 33
+        second: c85a3200
+      data:
+        first: 64
+        second: 16a86100
+    Door01:
+      data:
+        first: 1
+        second: dc860100
+      data:
+        first: 4
+        second: bc1a0600
+      data:
+        first: 23
+        second: 9a182300
+      data:
+        first: 33
+        second: da5a3200
+      data:
+        first: 64
+        second: 44a86100
+    Door02:
+      data:
+        first: 1
+        second: da860100
+      data:
+        first: 4
+        second: ba1a0600
+      data:
+        first: 23
+        second: 98182300
+      data:
+        first: 33
+        second: d85a3200
+      data:
+        first: 64
+        second: 42a86100
+    Engine:
+      data:
+        first: 1
+        second: a2860100
+      data:
+        first: 4
+        second: 821a0600
+      data:
+        first: 23
+        second: 60182300
+      data:
+        first: 33
+        second: a05a3200
+      data:
+        first: 64
+        second: 4ea86100
+    Frame:
+      data:
+        first: 1
+        second: e8860100
+      data:
+        first: 4
+        second: c81a0600
+      data:
+        first: 23
+        second: a6182300
+      data:
+        first: 33
+        second: e65a3200
+      data:
+        first: 64
+        second: 1aa86100
+    Hood:
+      data:
+        first: 1
+        second: d4860100
+      data:
+        first: 4
+        second: b41a0600
+      data:
+        first: 23
+        second: 92182300
+      data:
+        first: 33
+        second: d25a3200
+      data:
+        first: 64
+        second: 40a86100
+    Interier:
+      data:
+        first: 1
+        second: d2860100
+      data:
+        first: 4
+        second: b21a0600
+      data:
+        first: 23
+        second: 90182300
+      data:
+        first: 33
+        second: d05a3200
+      data:
+        first: 64
+        second: 3ea86100
+    Seats:
+      data:
+        first: 1
+        second: de860100
+      data:
+        first: 4
+        second: be1a0600
+      data:
+        first: 23
+        second: 9c182300
+      data:
+        first: 33
+        second: dc5a3200
+      data:
+        first: 64
+        second: 3ca86100
+    d01:
+      data:
+        first: 1
+        second: e2860100
+      data:
+        first: 4
+        second: c21a0600
+      data:
+        first: 23
+        second: a0182300
+      data:
+        first: 33
+        second: e05a3200
+      data:
+        first: 64
+        second: 20a86100
+    d02:
+      data:
+        first: 1
+        second: e0860100
+      data:
+        first: 4
+        second: c01a0600
+      data:
+        first: 23
+        second: 9e182300
+      data:
+        first: 33
+        second: de5a3200
+      data:
+        first: 64
+        second: 10a86100
+    d05:
+      data:
+        first: 1
+        second: e6860100
+      data:
+        first: 4
+        second: c61a0600
+      data:
+        first: 23
+        second: a4182300
+      data:
+        first: 33
+        second: e45a3200
+      data:
+        first: 64
+        second: 2aa86100
+    d06:
+      data:
+        first: 1
+        second: e4860100
+      data:
+        first: 4
+        second: c41a0600
+      data:
+        first: 23
+        second: a2182300
+      data:
+        first: 33
+        second: e25a3200
+      data:
+        first: 64
+        second: 0ea86100
+    d07:
+      data:
+        first: 1
+        second: f0860100
+      data:
+        first: 4
+        second: d01a0600
+      data:
+        first: 23
+        second: ae182300
+      data:
+        first: 33
+        second: ee5a3200
+      data:
+        first: 64
+        second: 00a86100
+    d08:
+      data:
+        first: 1
+        second: ee860100
+      data:
+        first: 4
+        second: ce1a0600
+      data:
+        first: 23
+        second: ac182300
+      data:
+        first: 33
+        second: ec5a3200
+      data:
+        first: 64
+        second: 4ca86100
+    d09:
+      data:
+        first: 1
+        second: ec860100
+      data:
+        first: 4
+        second: cc1a0600
+      data:
+        first: 23
+        second: aa182300
+      data:
+        first: 33
+        second: ea5a3200
+      data:
+        first: 64
+        second: 4aa86100
+    d10:
+      data:
+        first: 1
+        second: ea860100
+      data:
+        first: 4
+        second: ca1a0600
+      data:
+        first: 23
+        second: a8182300
+      data:
+        first: 33
+        second: e85a3200
+      data:
+        first: 64
+        second: 48a86100
+    d11:
+      data:
+        first: 1
+        second: d8860100
+      data:
+        first: 4
+        second: b81a0600
+      data:
+        first: 23
+        second: 96182300
+      data:
+        first: 33
+        second: d65a3200
+      data:
+        first: 64
+        second: 46a86100
+    d12:
+      data:
+        first: 1
+        second: d6860100
+      data:
+        first: 4
+        second: b61a0600
+      data:
+        first: 23
+        second: 94182300
+      data:
+        first: 33
+        second: d45a3200
+      data:
+        first: 64
+        second: 06a86100
+    sub01:
+      data:
+        first: 1
+        second: d0860100
+      data:
+        first: 4
+        second: b01a0600
+      data:
+        first: 23
+        second: 8e182300
+      data:
+        first: 33
+        second: ce5a3200
+      data:
+        first: 64
+        second: 14a86100
+    sub02:
+      data:
+        first: 1
+        second: ce860100
+      data:
+        first: 4
+        second: ae1a0600
+      data:
+        first: 23
+        second: 8c182300
+      data:
+        first: 33
+        second: cc5a3200
+      data:
+        first: 64
+        second: 04a86100
+    trailer:
+      data:
+        first: 1
+        second: f2860100
+      data:
+        first: 4
+        second: d21a0600
+      data:
+        first: 23
+        second: b0182300
+      data:
+        first: 33
+        second: f05a3200
+      data:
+        first: 64
+        second: 12a86100
+    tyres01:
+      data:
+        first: 1
+        second: c2860100
+      data:
+        first: 4
+        second: a21a0600
+      data:
+        first: 23
+        second: 80182300
+      data:
+        first: 33
+        second: c05a3200
+      data:
+        first: 64
+        second: 08a86100
+    tyres02:
+      data:
+        first: 1
+        second: c4860100
+      data:
+        first: 4
+        second: a41a0600
+      data:
+        first: 23
+        second: 82182300
+      data:
+        first: 33
+        second: c25a3200
+      data:
+        first: 64
+        second: 1ea86100
+    tyres03:
+      data:
+        first: 1
+        second: c8860100
+      data:
+        first: 4
+        second: a81a0600
+      data:
+        first: 23
+        second: 86182300
+      data:
+        first: 33
+        second: c65a3200
+      data:
+        first: 64
+        second: 2ca86100
+    tyres04:
+      data:
+        first: 1
+        second: c6860100
+      data:
+        first: 4
+        second: a61a0600
+      data:
+        first: 23
+        second: 84182300
+      data:
+        first: 33
+        second: c45a3200
+      data:
+        first: 64
+        second: 2ea86100
+    tyres05:
+      data:
+        first: 1
+        second: a6860100
+      data:
+        first: 4
+        second: 861a0600
+      data:
+        first: 23
+        second: 64182300
+      data:
+        first: 33
+        second: a45a3200
+      data:
+        first: 64
+        second: 30a86100
+    tyres06:
+      data:
+        first: 1
+        second: ac860100
+      data:
+        first: 4
+        second: 8c1a0600
+      data:
+        first: 23
+        second: 6a182300
+      data:
+        first: 33
+        second: aa5a3200
+      data:
+        first: 64
+        second: 32a86100
+    tyres07:
+      data:
+        first: 1
+        second: be860100
+      data:
+        first: 4
+        second: 9e1a0600
+      data:
+        first: 23
+        second: 7c182300
+      data:
+        first: 33
+        second: bc5a3200
+      data:
+        first: 64
+        second: 34a86100
+    tyres08:
+      data:
+        first: 1
+        second: c0860100
+      data:
+        first: 4
+        second: a01a0600
+      data:
+        first: 23
+        second: 7e182300
+      data:
+        first: 33
+        second: be5a3200
+      data:
+        first: 64
+        second: 36a86100
+    tyres09:
+      data:
+        first: 1
+        second: a8860100
+      data:
+        first: 4
+        second: 881a0600
+      data:
+        first: 23
+        second: 66182300
+      data:
+        first: 33
+        second: a65a3200
+      data:
+        first: 64
+        second: 38a86100
+    tyres10:
+      data:
+        first: 1
+        second: aa860100
+      data:
+        first: 4
+        second: 8a1a0600
+      data:
+        first: 23
+        second: 68182300
+      data:
+        first: 33
+        second: a85a3200
+      data:
+        first: 64
+        second: 3aa86100
+    tyres11:
+      data:
+        first: 1
+        second: b8860100
+      data:
+        first: 4
+        second: 981a0600
+      data:
+        first: 23
+        second: 76182300
+      data:
+        first: 33
+        second: b65a3200
+      data:
+        first: 64
+        second: 0aa86100
+    tyres12:
+      data:
+        first: 1
+        second: b6860100
+      data:
+        first: 4
+        second: 961a0600
+      data:
+        first: 23
+        second: 74182300
+      data:
+        first: 33
+        second: b45a3200
+      data:
+        first: 64
+        second: 18a86100
+    tyres13:
+      data:
+        first: 1
+        second: ba860100
+      data:
+        first: 4
+        second: 9a1a0600
+      data:
+        first: 23
+        second: 78182300
+      data:
+        first: 33
+        second: b85a3200
+      data:
+        first: 64
+        second: 02a86100
+    tyres14:
+      data:
+        first: 1
+        second: bc860100
+      data:
+        first: 4
+        second: 9c1a0600
+      data:
+        first: 23
+        second: 7a182300
+      data:
+        first: 33
+        second: ba5a3200
+      data:
+        first: 64
+        second: 50a86100
+    tyres15:
+      data:
+        first: 1
+        second: ae860100
+      data:
+        first: 4
+        second: 8e1a0600
+      data:
+        first: 23
+        second: 6c182300
+      data:
+        first: 33
+        second: ac5a3200
+      data:
+        first: 64
+        second: 0ca86100
+    tyres16:
+      data:
+        first: 1
+        second: b0860100
+      data:
+        first: 4
+        second: 901a0600
+      data:
+        first: 23
+        second: 6e182300
+      data:
+        first: 33
+        second: ae5a3200
+      data:
+        first: 64
+        second: 22a86100
+    tyres17:
+      data:
+        first: 1
+        second: b2860100
+      data:
+        first: 4
+        second: 921a0600
+      data:
+        first: 23
+        second: 70182300
+      data:
+        first: 33
+        second: b05a3200
+      data:
+        first: 64
+        second: 24a86100
+    tyres18:
+      data:
+        first: 1
+        second: b4860100
+      data:
+        first: 4
+        second: 941a0600
+      data:
+        first: 23
+        second: 72182300
+      data:
+        first: 33
+        second: b25a3200
+      data:
+        first: 64
+        second: 26a86100
+    windows:
+      data:
+        first: 1
+        second: a4860100
+      data:
+        first: 4
+        second: 841a0600
+      data:
+        first: 23
+        second: 62182300
+      data:
+        first: 33
+        second: a25a3200
+      data:
+        first: 64
+        second: 28a86100
